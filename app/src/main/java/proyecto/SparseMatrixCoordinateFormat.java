@@ -144,7 +144,6 @@ public class SparseMatrixCoordinateFormat {
 
     /*
      * This method returns a representation of the Squared matrix
-     * 
      * @return object that contests the squared matrix;
      */
     public SparseMatrixCoordinateFormat getSquareMatrix() throws OperationNotSupportedException {
@@ -161,7 +160,6 @@ public class SparseMatrixCoordinateFormat {
 
     /*
      * This method returns a representation of the transposed matrix
-     * 
      * @return object that contests the transposed matrix;
      */
     public SparseMatrixCoordinateFormat getTransposedMatrix() throws OperationNotSupportedException {

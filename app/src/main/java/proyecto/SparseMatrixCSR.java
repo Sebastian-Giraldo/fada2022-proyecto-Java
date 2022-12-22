@@ -146,7 +146,6 @@ public class SparseMatrixCSR {
 
     /*
      * This method returns a representation of the Squared matrix
-     * 
      * @return object that contests the squared matrix;
      */
     public SparseMatrixCSR getSquareMatrix() throws OperationNotSupportedException {
@@ -179,7 +178,6 @@ public class SparseMatrixCSR {
 
     /*
      * This method returns a representation of the transposed matrix
-     * 
      * @return object that contests the transposed matrix;
      */
     public SparseMatrixCSR getTransposedMatrix() throws OperationNotSupportedException {

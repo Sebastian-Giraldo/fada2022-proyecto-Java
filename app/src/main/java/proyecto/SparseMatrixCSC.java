@@ -190,7 +190,7 @@ public class SparseMatrixCSC {
     }
 
     /*
-     *  This method returns a representation of the transposed matrix
+     *  This method returns a representation of the transposed matrix.
      *  @return object that contests the transposed matrix;
      */
     public SparseMatrixCSC getTransposedMatrix() throws OperationNotSupportedException {
